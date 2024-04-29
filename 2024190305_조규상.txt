@@ -1,3 +1,6 @@
-main branch protection 적용 후 수정
+main branch protection 적용 시  
+  
+Do not allow bypassing the above settings
+The above settings will apply to administrators and custom roles with the "bypass branch protections" permission.  
 
-review needed 설정 후 수정
+위의 항목을 놓치지 않고 체크바람.
